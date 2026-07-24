@@ -12,9 +12,10 @@ I enjoy building reliable cloud infrastructure, scalable MERN stack applications
 ## Tech Stack
 
 ### DevOps, Cloud and Infrastructure
+  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,linux,bash&theme=light" alt="DevOps and cloud tools : aws, docker, kubernetes, terraform, githubactions, linux, bash" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,aws,docker,kubernetes,terraform,githubactions,prometheus,grafana&theme=light)" alt="DevOps and cloud tools : linux, bash, aws, docker, kubernetes, terraform, githubactions, prometheus,grafana " />
 </p>
 
 ### Frontend
