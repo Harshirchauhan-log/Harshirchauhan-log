@@ -23,7 +23,7 @@ I enjoy building reliable cloud infrastructure, scalable MERN stack applications
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite&theme=light" alt="Frontend tools : html, css, js, react, redux, tailwind, vite" />
 </p>
 
-### Backend and Data Bases
+### Backend and Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,postman&theme=light" alt="Backend tools : nodejs, express, mongodb, postgres, postman" />
@@ -38,22 +38,18 @@ I enjoy building reliable cloud infrastructure, scalable MERN stack applications
 ## Core Competencies
 
 <p>
-  <img width="24" src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS" />
   <strong>Cloud & DevOps</strong> - AWS, Docker, Kubernetes, GitHub Actions, Terraform, CI/CD
 </p>
 
 <p>
-  <img width="24" src="https://skillicons.dev/icons?i=react&theme=light" alt="React" />
   <strong>Frontend</strong> - HTML, CSS, JavaScript, React.js
 </p>
 
 <p>
-  <img width="24" src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Node.js" />
   <strong>Backend</strong> - Node.js, Express.js, MongoDB, PostgreSQL, REST APIs,
 </p>
 
 <p>
-  <img width="24" src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt&theme=light" alt="AI" />
   <strong>AI</strong> - LLM integrations, automation, prompt engineering, developer tooling
 </p>
 
