@@ -1,17 +1,17 @@
 # Hi, I'm `Harshit`
 
-I enjoy building reliable cloud infrastructure, scalable MERN stack applications, automated DevOps workflows, and practical AI-powered solutions. I have hands-on experience across AWS infrastructure, DevOps automation, MERN stack development, and AI-enabled solutions.
+I enjoy building reliable cloud infrastructure, scalable MERN stack applications, automated DevOps workflows and practical AI-powered solutions. I have hands-on experience across AWS infrastructure, DevOps automation, MERN stack development and AI-enabled solutions.
 - Building CI/CD pipelines, AWS infrastructure, and production-ready deployment workflows
-- Developing MERN stack applications with React, Node.js, Express, MongoDB, and PostgreSQL
+- Developing MERN stack applications with React, Node.js, Express, MongoDB and PostgreSQL
 - Working with Docker, Kubernetes, GitHub Actions, Terraform, monitoring and automation
-- Exploring AI integrations, LLM-powered tools, and intelligent developer workflows
-- Focused on clean architecture, reliability, security, and fast delivery
+- Exploring AI integrations, LLM-powered tools and intelligent developer workflows
+- Focused on clean architecture, reliability, security and fast delivery
 
 ---
 
 ## Tech Stack
 
-### DevOps, Cloud, and Infrastructure
+### DevOps, Cloud and Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,linux,bash&theme=light" alt="DevOps and cloud tools : aws, docker, kubernetes, terraform, githubactions, linux, bash" />
