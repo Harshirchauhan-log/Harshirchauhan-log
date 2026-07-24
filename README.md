@@ -15,7 +15,7 @@ I enjoy building reliable cloud infrastructure, scalable MERN stack applications
   
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,aws,docker,kubernetes,terraform,githubactions,prometheus,grafana&theme=light)" alt="DevOps and cloud tools : linux, bash, aws, docker, kubernetes, terraform, githubactions, prometheus,grafana " />
+  <img src="https://skillicons.dev/icons?i=linux,bash,aws,docker,kubernetes,terraform,githubactions,prometheus,grafana&theme=light" alt="DevOps and cloud tools : linux, bash, aws, docker, kubernetes, terraform, githubactions, prometheus,grafana " />
 </p>
 
 ### Frontend
