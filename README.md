@@ -47,7 +47,7 @@ I enjoy building reliable cloud infrastructure, scalable MERN stack applications
 </p>
 
 <p>
-  <strong>Backend</strong> - Node.js, Express.js, MongoDB, PostgreSQL, REST APIs,
+  <strong>Backend</strong> - Node.js, Express.js, MongoDB, PostgreSQL, REST APIs
 </p>
 
 <p>
@@ -58,10 +58,10 @@ I enjoy building reliable cloud infrastructure, scalable MERN stack applications
 
 ## Current Focus
 
-- Strengthening production-grade AWS DevOps and platform engineering practices
+- Strengthening production grade AWS DevOps and platform engineering practices
 - Building scalable MERN stack applications with clean deployment workflows
-- Creating AI-assisted tools that reduce repetitive engineering work
-- Improving cloud security, Kubernetes operations, observability, and automation
+- Creating AI assisted tools that reduce repetitive engineering work
+- Improving cloud security, Kubernetes operations, observability and automation
 
 ---
 
