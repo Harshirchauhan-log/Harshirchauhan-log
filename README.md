@@ -23,7 +23,7 @@ I enjoy building reliable cloud infrastructure, scalable MERN stack applications
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite&theme=light" alt="Frontend tools : html, css, js, react, redux, tailwind, vite" />
 </p>
 
-### Backend
+### Backend and Data Bases
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,postman&theme=light" alt="Backend tools : nodejs, express, mongodb, postgres, postman" />
